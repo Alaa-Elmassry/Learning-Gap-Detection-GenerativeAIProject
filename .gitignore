@@ -1,6 +1,7 @@
 venv/
-.env
 __pycache__/
 outputs/
 *.pyc
 package-lock.json
+config.bat
+node_modules
