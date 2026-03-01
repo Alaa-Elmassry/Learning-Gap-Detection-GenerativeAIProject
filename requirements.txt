@@ -1,0 +1,10 @@
+gradio==4.44.1
+python-dotenv==1.2.1
+huggingface_hub==0.36.2
+pandas==2.3.3
+openpyxl
+chromadb==1.5.2
+llama-index-core==0.14.15
+llama-index-vector-stores-chroma==0.5.5
+llama-index-embeddings-huggingface==0.6.1
+sentence-transformers==2.7.0
